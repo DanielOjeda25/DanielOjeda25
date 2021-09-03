@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielOjeda25
-- 👀 I’m interested in Games Devs, Modeling 3D, and Front-end
-- 🌱 I’m currently learning JS-HTML and css
-- 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me telorecomiendo01@gmail.com
+- 👀 I’m interested in Web Programming, Front-end for a while
+- 🌱 I’m currently learning HTML, CSS and JS
+- 💞️ I’m looking to collaborate whit everyone
+- 📫 How to reach me ojedadanielalejandro333@gmail.com
 
 
