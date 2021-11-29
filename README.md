@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @DanielOjeda25
-- 👀 I’m interested in Web Programming, Front-end for a while
-- 🌱 I’m currently learning HTML, CSS and JS
+- 👋 Hi, I’m Daniel Alejandro Ojeda
+- 👀 I’m interested in Web Programming, now I am specializing in the frontend area, later to learn backend
+- 🌱 I have knowledge in technologies such as {
+-   Html(intermediate)
+-   css(intermediate)
+-   JavaScript(intermediate)
+-   PHP(basic)
+-   bootstrap(basic)
+-   Sass(basic)
+-   React.js (basic-intermediate)
+- }
+
+- another platform where I have more projects, REACT.js {
+  -DRUMPAD (https://codepen.io/danielojeda25/pen/NWvQWpq),
+  -React/editor/previewer (https://codepen.io/danielojeda25/pen/RwZmvrQ),
+- }
+
 - 💞️ I’m looking to collaborate whit everyone
 - 📫 How to reach me ojedadanielalejandro333@gmail.com
-
 
