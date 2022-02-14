@@ -2,11 +2,9 @@
 - 👀 I’m interested in Web Programming, now I am specializing in the frontend area, later to learn backend
 - 🌱 I have knowledge in technologies such as {
 -   Html(intermediate)
--   css(intermediate)
+-   Css(intermediate)
 -   JavaScript(intermediate)
--   PHP(basic)
 -   bootstrap(basic)
--   Sass(basic)
 -   React.js (basic-intermediate)
 - }
 
