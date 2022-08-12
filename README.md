@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **frontend knowledge**
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+- 👨‍💻 My Personal Portfolio <a>https://danielojeda25.github.io/Daniel-Alejandro-Ojeda/</a>
 
 - 💬 Ask me about **React Js, HTML, CSS ,and Js ,Bootstrap 5**
 
