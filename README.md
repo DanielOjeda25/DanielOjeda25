@@ -1,29 +1,31 @@
-<h1 align="center">Hi 👋, I'm Daniel Alejandro Ojeda</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+# ¡Hola 👋, soy Daniel Alejandro Ojeda!
+## Un apasionado desarrollador full stack de Argentina
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielojeda25&label=Profile%20views&color=0e75b6&style=flat" alt="danielojeda25" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=danielojeda25&label=Vistas%20de%20perfil&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **React Js looking to become good at it**
+🌱 Actualmente estoy aprendiendo a ser un Full Stack web más completo.
 
-- 🤝 I’m looking for help with **frontend knowledge**
+👨‍💻 Mi portafolio personal [https://danielojeda25.github.io/Daniel-Alejandro-Ojeda/](https://danielojeda25.github.io/Daniel-Alejandro-Ojeda/)
 
-- 👨‍💻 My Personal Portfolio <a>https://danielojeda25.github.io/Daniel-Alejandro-Ojeda/</a>
+💬 Pregúntame sobre React Js, HTML, CSS, y Js, Tailwind CSS, bases de datos SQL.
 
-- 💬 Ask me about **React Js, HTML, CSS ,and Js ,Bootstrap 5**
+📫 Cómo contactarme ojedadanielalejandro333@gmail.com
 
-- 📫 How to reach me **ojedadanielalejandro333@gmail.com**
+⚡ Dato curioso: Me encanta jugar videojuegos, ver películas y series, hacer ejercicio e investigar para convertirme en un mejor profesional.
 
-- ⚡ Fun fact **I love playing games, see movies , do some Exercise and research to become a better professional**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/dan_ojeda_dev03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dan_ojeda_dev03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-ojeda26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-ojeda26" height="30" width="40" /></a>
+<a href="https://twitter.com/dan_ojeda_dev03" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dan_ojeda_dev03" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-ojeda26" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-ojeda26" height="25" width="25" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielojeda25&show_icons=true&locale=en&layout=compact" alt="danielojeda25" /></p>
+## Herramientas 🔧
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielojeda25&show_icons=true&locale=en" alt="danielojeda25" /></p>
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🌐 HTML
+- 🎨 CSS
+- 🚀 JavaScript
+- 🗄️ SQL
+
