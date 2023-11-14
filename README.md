@@ -5,7 +5,7 @@
 
 🌱 Actualmente estoy aprendiendo a ser un Full Stack web más completo.
 
-👨‍💻 Mi portafolio personal [Perspnal Portfolio/](https://danistrysportfolio.vercel.app/)
+👨‍💻 Mi portafolio personal [Personal Portfolio](https://danistrysportfolio.vercel.app/)
 
 💬 Pregúntame sobre React Js, HTML, CSS, y Js, Tailwind CSS, bases de datos SQL.
 
