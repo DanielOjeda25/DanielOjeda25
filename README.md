@@ -5,7 +5,7 @@
 
 🌱 Actualmente estoy aprendiendo a ser un Full Stack web más completo.
 
-👨‍💻 Mi portafolio personal [https://danielojeda25.github.io/Daniel-Alejandro-Ojeda/](https://danielojeda25.github.io/Daniel-Alejandro-Ojeda/)
+👨‍💻 Mi portafolio personal [https://danielojeda25.github.io/Daniel-Alejandro-Ojeda/](https://danistrysportfolio.vercel.app/)
 
 💬 Pregúntame sobre React Js, HTML, CSS, y Js, Tailwind CSS, bases de datos SQL.
 
