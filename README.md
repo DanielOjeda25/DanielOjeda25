@@ -1,5 +1,5 @@
 # ¡Hola 👋, soy Daniel Alejandro Ojeda!
-## Un apasionado desarrollador full stack de Argentina
+## Desarrollador Web Frontend y Animador 3D
 
 ![Profile views](https://komarev.com/ghpvc/?username=danielojeda25&label=Vistas%20de%20perfil&color=0e75b6&style=flat)
 
@@ -9,7 +9,7 @@
 
 💬 Pregúntame sobre React Js, HTML, CSS, y Js, Tailwind CSS, bases de datos SQL.
 
-📫 Cómo contactarme ojedadanielalejandro333@gmail.com
+📫 Cómo contactarme danielalejandroojeda03@gmail.com
 
 ⚡ Dato curioso: Me encanta jugar videojuegos, ver películas y series, hacer ejercicio e investigar para convertirme en un mejor profesional.
 
