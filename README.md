@@ -15,14 +15,14 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/dan_ojeda_dev03" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dan_ojeda_dev03" height="25" width="25" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-ojeda26" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-ojeda26" height="25" width="25" /></a>
+<a href="https://x.com/Dan_Ojeda_Dev03" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dan_ojeda_dev03" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/danielalejandroojeda/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-ojeda26" height="25" width="25" /></a>
 </p>
 
 
 ## Herramientas 🔧
 
-- ⚛️ React.js
+- ⚛️ React.js | Redux
 - 🎨 Tailwind CSS
 - 🌐 HTML
 - 🎨 CSS
