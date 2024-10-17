@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=danielojeda25&label=Vistas%20de%20perfil&color=0e75b6&style=flat)
 
-🌱 Actualmente estoy aprendiendo a ser un Full Stack web más completo.
+🌱 Actualmente continuo aprendiendo y especializandome en el desarrollo Frontend.
 
 👨‍💻 Mi portafolio personal [Personal Portfolio](https://danistrysportfolio.vercel.app/)
 
