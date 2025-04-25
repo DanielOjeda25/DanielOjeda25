@@ -1,5 +1,5 @@
 # ¡Hola 👋, soy Daniel Alejandro Ojeda!
-## Desarrollador Web Frontend y Animador 3D
+## Desarrollador Web Frontend
 
 ![Profile views](https://komarev.com/ghpvc/?username=danielojeda25&label=Vistas%20de%20perfil&color=0e75b6&style=flat)
 
@@ -7,7 +7,7 @@
 
 👨‍💻 Mi portafolio personal [Personal Portfolio](https://danistrysportfolio.vercel.app/)
 
-💬 Pregúntame sobre React Js, HTML, CSS, y Js, Tailwind CSS, bases de datos SQL.
+💬 Pregúntame sobre React Js, HTML, CSS, y Js, Tailwind CSS, bases de datos SQL, Zustand, Git.
 
 📫 Cómo contactarme danielalejandroojeda03@gmail.com
 
