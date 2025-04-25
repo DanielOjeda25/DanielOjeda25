@@ -22,7 +22,7 @@
 
 ## Herramientas 🔧
 
-- ⚛️ React.js | Redux
+- ⚛️ React.js | Zustand
 - 🎨 Tailwind CSS
 - 🌐 HTML
 - 🎨 CSS
