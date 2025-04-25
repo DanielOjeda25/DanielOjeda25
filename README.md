@@ -5,8 +5,6 @@
 
 🌱 Actualmente continuo aprendiendo y especializandome en el desarrollo Frontend.
 
-👨‍💻 Mi portafolio personal [Personal Portfolio](https://danistrysportfolio.vercel.app/)
-
 💬 Pregúntame sobre React Js, HTML, CSS, y Js, Tailwind CSS, bases de datos SQL, Zustand, Git.
 
 📫 Cómo contactarme danielalejandroojeda03@gmail.com
