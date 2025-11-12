@@ -1,29 +1,28 @@
-# ¡Hola 👋, soy Daniel Alejandro Ojeda!
-## Desarrollador Web Frontend
+👋 ¡Hola! Soy Daniel Alejandro Ojeda
+💻 Desarrollador Web Frontend
 
-![Profile views](https://komarev.com/ghpvc/?username=danielojeda25&label=Vistas%20de%20perfil&color=0e75b6&style=flat)
+🌱 Actualmente sigo perfeccionando mis habilidades en desarrollo web frontend, enfocado en crear interfaces modernas, escalables y optimizadas.
 
-🌱 Actualmente continuo aprendiendo y especializandome en el desarrollo Frontend.
+💬 Me especializo en React.js, Tailwind CSS, JavaScript, HTML, CSS, y manejo Zustand para la gestión de estado, además de SQL para bases de datos y Git para control de versiones.
 
-💬 Pregúntame sobre React Js, HTML, CSS, y Js, Tailwind CSS, bases de datos SQL, Zustand, Git.
+📫 Puedes contactarme en: danielalejandroojeda03@gmail.com
 
-📫 Cómo contactarme danielalejandroojeda03@gmail.com
-
-⚡ Dato curioso: Me encanta jugar videojuegos, ver películas y series, hacer ejercicio e investigar para convertirme en un mejor profesional.
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://x.com/Dan_Ojeda_Dev03" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dan_ojeda_dev03" height="25" width="25" /></a>
-<a href="https://www.linkedin.com/in/danielalejandroojeda/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-ojeda26" height="25" width="25" /></a>
-</p>
+⚡ Dato curioso: Me apasionan los videojuegos, el cine y las series. También disfruto investigar nuevas tecnologías para seguir creciendo como profesional.
 
 
-## Herramientas 🔧
+🌐 Conéctate conmigo:
+<p align="left"> <a href="https://x.com/Dan_Ojeda_Dev03" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="25" width="25" /> </a> <a href="https://www.linkedin.com/in/danielalejandroojeda/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" /> </a> </p>
 
-- ⚛️ React.js | Zustand
-- 🎨 Tailwind CSS
-- 🌐 HTML
-- 🎨 CSS
-- 🚀 JavaScript
-- 🗄️ SQL
+🧰 Tecnologías y Herramientas
 
+⚛️ React.js / Zustand
+
+🎨 Tailwind CSS
+
+🌐 HTML5 / CSS3
+
+🚀 JavaScript (ES6+)
+
+🗄️ SQL (MySQL / SQLite)
+
+🧩 Git / GitHub
